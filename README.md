@@ -1,13 +1,33 @@
-# import-export-analysis
+# Project Title: Analysis of India's Import and Export Data (1989-2022)
 
-**Data Link** - https://wits.worldbank.org/CountryProfile/en/Country/IND/StartYear/1988/EndYear/2021/TradeFlow/Import/Partner/BY-COUNTRY/Indicator/MPRT-PRTNR-SHR#
 
-In this project, I have analyzed the import and export data of India from various countries from 1989 to 2022. 
-I have collected the data from 'WORLD INTEGRATED TRADE SOLUTION'. (link above)  
+# Overview:  
+This project involves an in-depth analysis of India's import and export data spanning from 1989 to 2022. The data was sourced from the 'WORLD INTEGRATED TRADE SOLUTION' database. Various aspects of India's trade dynamics were explored including overall trade trends, trade balance, product-wise analysis, country-wise analysis, and percentage share analysis.
 
-I have analyzed 'overall trade trades', 'Trade Balance', 'Product-wise Analysis', 'Country-wise Analysis', and 'Percentage Share Analysis'.  
+# Data Source:  
+The primary data source for this analysis is the 'WORLD INTEGRATED TRADE SOLUTION' database. This database provides comprehensive trade data which was utilized to conduct the analysis.
+# **Data Link** - https://wits.worldbank.org/CountryProfile/en/Country/IND/StartYear/1988/EndYear/2021/TradeFlow/Import/Partner/BY-COUNTRY/Indicator/MPRT-PRTNR-SHR#
 
-I have created a Power BI report for this analysis. I have also attached the .pbix file.
+
+
+# Analysis:  
+1. Overall Trade Trends: Examined the general trends in India's import and export volumes over the specified time period.  
+2. Trade Balance: Investigated the trade balance between imports and exports to assess the economic position of India in the global market.  
+3. Product-wise Analysis: Analyzed the import and export trends for different product categories to identify key sectors contributing to India's trade.  
+4. Country-wise Analysis: Explored the trade relationships between India and various partner countries, examining import and export volumes with each.  
+5. Percentage Share Analysis: Calculated the percentage share of each product category and partner country in India's overall trade volume to understand the distribution of trade.  
+
+# Tools Used:
+Power BI was utilized to visualize and present the analysis findings. The project report is available in .pbix format, allowing for interactive exploration of the data insights.
+
+# Files Included:  
+Power BI Report (.pbix file)  
+Readme.md (Documentation)  
+
+# How to Use:  
+Download the Power BI Report (.pbix file).
+Open the file using Power BI Desktop or Power BI Online.
+Explore the various visualizations and dashboards to gain insights into India's import and export data..
 
 **TRADE BALANCE -**  
 Trade balance refers to the difference between the value of a country's exports (goods and services it sells to other countries) and its imports (goods and services it buys from other countries) over a specific period, typically a month or a year.
