@@ -3,16 +3,18 @@
 **Data Link** - https://wits.worldbank.org/CountryProfile/en/Country/IND/StartYear/1988/EndYear/2021/TradeFlow/Import/Partner/BY-COUNTRY/Indicator/MPRT-PRTNR-SHR#
 
 In this project, I have analyzed the import and export data of India from various countries from 1989 to 2022. 
-I have collected the data from 'WORLD INTEGRATED TRADE SOLUTION'. (link above)
+I have collected the data from 'WORLD INTEGRATED TRADE SOLUTION'. (link above)  
 
-I have analyzed 'overall trade trades', 'Trade Balance', 'Product-wise Analysis', 'Country-wise Analysis', 'Percentage Share Analysis', '
+I have analyzed 'overall trade trades', 'Trade Balance', 'Product-wise Analysis', 'Country-wise Analysis', and 'Percentage Share Analysis'.  
+
+I have created a Power BI report for this analysis. I have also attached the .pbix file.
 
 **TRADE BALANCE -**  
 Trade balance refers to the difference between the value of a country's exports (goods and services it sells to other countries) and its imports (goods and services it buys from other countries) over a specific period, typically a month or a year.
 When a country exports more than it imports, it has a trade surplus, indicating that it's selling more abroad than it's buying from other countries. Conversely, when a country imports more than it exports, it has a trade deficit, meaning it's buying more from other countries than it's selling.
 
 
-**WHAT IS HS6 CODE?**
+**WHAT IS HS6 CODE?**  
 it is a standardized international classification system for products used in global trade. Each product is assigned a unique code simply to make the whole process easy.
 
 
