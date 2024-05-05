@@ -21,11 +21,12 @@ it is a standardized international classification system for products used in gl
 
 
 
-**Export-**
+**Export-** /n
+
 Over the years, our export numbers have generally been on the rise, indicating a growing economy and expanding international trade activities. However, there are noticeable cycles of growth and slowdowns, with periods of rapid export expansion followed by slower growth or slight declines. For example, there was a significant increase in exports from 2004 to 2008, but then a dip during the global financial crisis in 2009, before recovering again. Major economic events like the global financial crisis and the COVID-19 pandemic have had significant impacts on export volumes, as seen in the fluctuations around those years. These events highlight the sensitivity of our export performance to broader economic conditions and global events.
 
 
-**Import-**
+**Import-** /n
 The import data reveals a consistent upward trend over the years, indicating a growing demand for foreign goods and services. Similar to exports, there are noticeable cycles of growth and slowdowns in import volumes, with periods of rapid expansion followed by slower growth or slight declines. Notably, there was a significant increase in imports from 2004 to 2008, followed by a dip during the global financial crisis in 2009, before resuming an upward trajectory. Major economic events such as the global financial crisis and the COVID-19 pandemic have had significant impacts on import volumes, underscoring the sensitivity of import performance to broader economic conditions and global events. This increasing trend in import volumes also suggests a growing dependency on foreign goods and services, which can have implications for domestic industries, trade balances, and economic stability.
 
 
